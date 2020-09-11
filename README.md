@@ -1,6 +1,6 @@
 # Covid-19-Tracker
 
-**With colourful charts and instant results, this free to use and open-source Covid-19 Tracker app is easy to use and understand, intuitive and is quick to perform search.**
+**With colourful charts and instant results, this open-source Covid-19 Tracker app is easy to use and understand, intuitive and is quick to perform search.**
 
 **The tracker shows the total number of confirmed cases in the country searched for and also globally around the world with the help of graphical representation of the cases confirmed in the country, also with total affected, recovered, active and critical cases.**
 
